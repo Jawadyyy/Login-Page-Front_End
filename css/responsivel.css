@@ -1,0 +1,22 @@
+@media (max-width: 867px) {
+    .logbox {
+        flex-direction: column;
+        width: 90%; 
+        height: auto;
+        overflow: auto; 
+    }
+
+    .sec1, .sec2 {
+        height: auto; 
+        width: 100%; 
+    }
+
+    .sec1 img {
+        width: 100%;
+        height: auto; 
+    }
+
+    .sec2 {
+        padding: 20px;
+    }
+}
